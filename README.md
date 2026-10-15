@@ -1,45 +1,49 @@
-<div align="center">
+## Hi 👋, I'm Fernando Toba
 
-# Fernando Toba
+👾🦠 Cybersecurity enthusiast focused on 🧠 Threat Intelligence, self-hosted infrastructure, and automation.
 
-**Cybersecurity · Threat Intelligence · Self-hosted · Automação**
+## About Me
 
-Estudante de Sistemas de Informação na USP. Construo ferramentas em Python para inteligência de ameaças e mantenho um homelab Proxmox.
+- Information Systems student at the Universidade de São Paulo (USP)
+- Interested in Cyber Threat Intelligence (CTI), IOC collection, MISP integrations, and security automation
+- Developing Python tools and APIs for threat intelligence workflows
+- Exploring self-hosted security platforms and privacy-focused infrastructure
+- Passionate about clean code, testing, and improving software architecture over time
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandotobalopez/)
-[![Homelab](https://img.shields.io/badge/Homelab-proxmox--homelab-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://github.com/Fet0b/proxmox-homelab)
+## Where to Find Me
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandotobalopez/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fet0b@proton.me)
 
----
 
-## Foco atual
+## Current Projects
 
-- **Threat Intelligence (CTI):** coleta de IOCs, integrações com MISP e automação de fluxos de segurança.
-- **Infraestrutura self-hosted:** Proxmox VE, LXC, Docker rootless, Terraform e backups.
-- **Qualidade de código:** testes, arquitetura limpa e evolução contínua.
+- `ioc-collector` — IOC aggregation and threat intelligence automation
+- Security integrations and API-based automation tools
+- Studies and projects related to cybersecurity and infrastructure
 
-## Projetos em destaque
+## Tech Stack
 
-| Projeto | O que é |
-| :-- | :-- |
-| [**proxmox-homelab**](https://github.com/Fet0b/proxmox-homelab) | Homelab Proxmox VE 9: GPU compartilhada entre VM e LXC, Docker rootless, Terraform, backup e automação. |
-| [**ioc-collector**](https://github.com/Fet0b/ioc-collector) | Agregação de IOCs e automação para threat intelligence (Python). |
-| [**generic_login_checker**](https://github.com/Fet0b/generic_login_checker) | Verificador genérico de login (Python). |
-| [**fastAPI-studys**](https://github.com/Fet0b/fastAPI-studys) | Estudos de APIs com FastAPI (Python). |
-
-## Tecnologias
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,bash,linux,docker,terraform,proxmox,git&theme=dark&perline=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,bash,linux,docker,terraform,proxmox,git&theme=light&perline=8">
-  <img alt="Python, FastAPI, Bash, Linux, Docker, Terraform, Proxmox e Git" src="https://skillicons.dev/icons?i=python,fastapi,bash,linux,docker,terraform,proxmox,git&perline=8">
-</picture>
-
-<sub>Python · FastAPI · Bash · Linux · Docker · Terraform · Proxmox · Git</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<div align="center">
-<sub><i>Build, break, learn, improve.</i></sub>
-</div>
+> “Build, break, learn, improve.”
+<!--
+**Fet0b/Fet0b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
