@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png" width="150" height="150" alt="Giratina, the guardian of this profile">
-
 # Fernando Toba Lopez
 ### Cybersecurity · Threat Intelligence · Software Engineering
 
@@ -9,7 +7,7 @@ Building tools, connecting APIs, and learning through a self-hosted homelab.
 
 [LinkedIn](https://www.linkedin.com/in/fernandotobalopez/) · [Email](mailto:fet0b@proton.me)
 
-**Explore the lab. Meet the team.**
+<img src="https://img.shields.io/badge/Cybersecurity-8B5CF6?style=flat-square" alt="Cybersecurity"> <img src="https://img.shields.io/badge/Threat_Intelligence-A78BFA?style=flat-square" alt="Threat Intelligence"> <img src="https://img.shields.io/badge/Automation-9333EA?style=flat-square" alt="Automation"> <img src="https://img.shields.io/badge/Homelab-7C3AED?style=flat-square" alt="Homelab">
 
 </div>
 
