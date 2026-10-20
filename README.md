@@ -23,56 +23,14 @@ I'm an Information Systems student at the **Universidade de São Paulo (USP)**, 
 
 ## My project team
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/Fet0b/ioc-collector"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png" width="160" height="160" alt="Umbreon — ioc-collector"></a>
-<h3><a href="https://github.com/Fet0b/ioc-collector">ioc-collector</a></h3>
-<p><strong>THREAT INTELLIGENCE</strong></p>
-<p>Experimental URLhaus → Pi-hole domain collection and blocklist automation.</p>
-<sub>Umbreon</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/Fet0b/proxmox-homelab"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png" width="160" height="160" alt="Hydreigon — proxmox-homelab"></a>
-<h3><a href="https://github.com/Fet0b/proxmox-homelab">proxmox-homelab</a></h3>
-<p><strong>HOMELAB & INFRASTRUCTURE</strong></p>
-<p>Proxmox, GPU sharing, rootless Docker in LXC, Terraform, backups, and automation.</p>
-<sub>Hydreigon</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/Fet0b/Gastoba"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="160" height="160" alt="Gengar — Gastoba"></a>
-<h3><a href="https://github.com/Fet0b/Gastoba">Gastoba</a></h3>
-<p><strong>FULL-STACK ENGINEERING</strong></p>
-<p>Personal expense tracking with FastAPI, React, and TypeScript.</p>
-<sub>Gengar</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/Fet0b/pc-energy-cost"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="160" height="160" alt="Pikachu — pc-energy-cost"></a>
-<h3><a href="https://github.com/Fet0b/pc-energy-cost">pc-energy-cost</a></h3>
-<p><strong>PYTHON & ENERGY DATA</strong></p>
-<p>A CLI for estimating PC energy costs from manual inputs, CSV data, and ANEEL tariffs.</p>
-<sub>Pikachu</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/Fet0b/fastAPI-studys"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png" width="160" height="160" alt="Porygon — fastAPI-studys"></a>
-<h3><a href="https://github.com/Fet0b/fastAPI-studys">fastAPI-studys</a></h3>
-<p><strong>API & SOFTWARE ARCHITECTURE</strong></p>
-<p>A task API study with ports, adapters, repository abstractions, and automated tests.</p>
-<sub>Porygon</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/Fet0b/piramide-bot"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png" width="160" height="160" alt="Darkrai — piramide-bot"></a>
-<h3><a href="https://github.com/Fet0b/piramide-bot">piramide-bot</a></h3>
-<p><strong>PYTHON & TELEGRAM BOT</strong></p>
-<p>A Telegram card-game bot with layered code, JSON state persistence, and tests.</p>
-<sub>Darkrai</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Fet0b/ioc-collector"><img src="./ioc-collector.svg" width="49%" alt="ioc-collector — Umbreon"></a>
+  <a href="https://github.com/Fet0b/proxmox-homelab"><img src="./proxmox-homelab.svg" width="49%" alt="proxmox-homelab — Hydreigon"></a>
+  <a href="https://github.com/Fet0b/Gastoba"><img src="./Gastoba.svg" width="49%" alt="Gastoba — Gengar"></a>
+  <a href="https://github.com/Fet0b/pc-energy-cost"><img src="./pc-energy-cost.svg" width="49%" alt="pc-energy-cost — Pikachu"></a>
+  <a href="https://github.com/Fet0b/fastAPI-studys"><img src="./fastAPI-studys.svg" width="49%" alt="fastAPI-studys — Porygon"></a>
+  <a href="https://github.com/Fet0b/piramide-bot"><img src="./piramide-bot.svg" width="49%" alt="piramide-bot — Darkrai"></a>
+</p>
 
 <sub>The collector is experimental; the API repository is a study project. See each repository for setup, scope, and limitations.</sub>
 
