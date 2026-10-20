@@ -1,49 +1,51 @@
-## Hi 👋, I'm Fernando Toba
+<div align="center">
 
-👾🦠 Cybersecurity enthusiast focused on 🧠 Threat Intelligence, self-hosted infrastructure, and automation.
+# Fernando Toba Lopez
+### Cybersecurity · Threat Intelligence · Software Engineering
 
-## About Me
+Building tools, connecting APIs, and learning through a self-hosted homelab.
 
-- Information Systems student at the Universidade de São Paulo (USP)
-- Interested in Cyber Threat Intelligence (CTI), IOC collection, MISP integrations, and security automation
-- Developing Python tools and APIs for threat intelligence workflows
-- Exploring self-hosted security platforms and privacy-focused infrastructure
-- Passionate about clean code, testing, and improving software architecture over time
+[LinkedIn](https://www.linkedin.com/in/fernandotobalopez/) · [Email](mailto:fet0b@proton.me) · [Explore my repositories](https://github.com/Fet0b?tab=repositories)
 
-## Where to Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandotobalopez/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fet0b@proton.me)
-
-
-## Current Projects
-
-- `ioc-collector` — IOC aggregation and threat intelligence automation
-- Security integrations and API-based automation tools
-- Studies and projects related to cybersecurity and infrastructure
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
-> “Build, break, learn, improve.”
-<!--
-**Fet0b/Fet0b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm an Information Systems student at the **Universidade de São Paulo (USP)**, interested in the intersection of security, software design, and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cybersecurity & CTI:** IOC collection, open threat data, and security automation. MISP integrations are an area I want to explore.
+- **Software engineering:** Python APIs, separation of concerns, ports and adapters, and automated testing.
+- **Homelab:** Linux, Proxmox, containers, and practical infrastructure automation.
+
+## Selected projects
+
+| Project | What you'll find | Focus |
+| :--- | :--- | :--- |
+| **[ioc-collector](https://github.com/Fet0b/ioc-collector)** | An experimental URLhaus → Pi-hole workflow for collecting domains and updating a self-hosted blocklist. Other integrations are still evolving. | Threat intelligence · Python |
+| **[proxmox-homelab](https://github.com/Fet0b/proxmox-homelab)** | Proxmox documentation and scripts covering GPU sharing, rootless Docker in LXC, Terraform, backups, and automation. | Infrastructure · Homelab |
+| **[Gastoba](https://github.com/Fet0b/Gastoba)** | Personal expense tracking with a FastAPI backend and a React + TypeScript interface. | Full-stack · API design |
+| **[pc-energy-cost](https://github.com/Fet0b/pc-energy-cost)** | A Python CLI that estimates PC energy costs using manual inputs, CSV measurements, and ANEEL tariff data. | Python tooling · Data integration |
+| **[fastAPI-studys](https://github.com/Fet0b/fastAPI-studys)** | A task API study exploring Clean/Hexagonal Architecture, repository abstractions, and testability. | Backend · Software architecture |
+| **[Uno-distribu-do](https://github.com/Fet0b/Uno-distribu-do)** | A distributed Uno prototype exploring replicated state and contract-based WebSocket messages with Electron, React, and TypeScript. | Distributed systems · Networking |
+
+## Tools across my projects
+
+**Languages & APIs**  
+Python · TypeScript · FastAPI · React
+
+**Infrastructure & workflow**  
+Linux · Proxmox · Docker · Terraform · Git · pytest
+
+## What connects the work
+
+Taking open data into useful workflows, making infrastructure reproducible, and improving software structure through hands-on projects. The repositories document their scope, setup, and current limitations.
+
+---
+
+<div align="center">
+
+*Build, break, learn, improve.*
+
+</div>
